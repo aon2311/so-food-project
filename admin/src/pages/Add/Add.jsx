@@ -79,7 +79,6 @@ const Add = () => {
                             <option value="บะหมี่ต้มยำน้ำใส">บะหมี่ต้มยำน้ำใส</option>
                             <option value="บะหมี่ต้มยำน้ำข้น">บะหมี่ต้มยำน้ำข้น</option>
                             <option value="บะหมี่แห้ง">บะหมี่แห้ง</option>
-                            <option value="ผลไม้">ผลไม้</option>
                             <option value="ท็อปปิ้ง">ท็อปปิ้ง</option>
                         </select>
                     </div>
